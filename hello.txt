@@ -1,1 +1,6 @@
 hello world
+Linus Torvalds
+Tim Cook
+Elon Musk
+Add dark mode feature
+Thanks for visiting
